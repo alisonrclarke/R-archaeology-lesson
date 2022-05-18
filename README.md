@@ -1,7 +1,7 @@
 
 # Data carpentry: R for data analysis and visualization of Archaological Data
 
-**N.B. This repository is an adaptation of the Data Carpentries R Ecology lesson (https://datacarpentry.org/R-ecology-lesson/). The aim is to modify it to use archaeological data. Currently it is a work in progress so will include references to ecology as well as archaeology.**
+**This repository was transferred to https://github.com/carpentries-incubator/R-archaeology-lesson and has been forked back here to allow links to the existing course site to work.**
 
 This is an introduction to R designed for participants with no programming
 experience. It can be taught in 3/4 of a day (approximately 6 hours).
